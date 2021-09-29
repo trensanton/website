@@ -1,3 +1,3 @@
 # Personal Website
 
-### Files are hidden
+### My personal website
